@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    font-weight: 800;
+    width: 100%;
+    justify-content:space-between;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+}

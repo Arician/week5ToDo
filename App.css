@@ -1,0 +1,13 @@
+#main{
+  border: solid red 4px;
+}
+.classPerson{
+  border: dotted blue 3px;
+}
+#airBnb{
+  display:flex;
+  justify-content: space-between;
+}
+.bnbText{
+  font-weight: 700;
+}
